@@ -2,5 +2,7 @@
 # SPDX-License-Identifier: Apache-2.0
 
 heelo 33
+test git 1
+test git 2
 add_subdirectory(common)
 add_subdirectory(${SOC_SERIES})
