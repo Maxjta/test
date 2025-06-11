@@ -6,3 +6,5 @@ test git 1
 test git 2
 add_subdirectory(common)
 add_subdirectory(${SOC_SERIES})
+test4
+test5
